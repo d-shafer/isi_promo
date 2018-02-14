@@ -8,5 +8,8 @@ main {
     display: block;
     width: 100%;
     height: 100vh;
-    background: transparent;
+    background-color: transparent;
+    background-image: url('img/isi_clipped.jpg');
+    background-size: fit;
+    background-position: center right;
 }
