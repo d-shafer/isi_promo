@@ -13,7 +13,10 @@ body {
     background-repeat: no-repeat;
 }
 main {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     width: 100%;
     height: 100%;
     background-color: transparent;
@@ -21,4 +24,12 @@ main {
     background-size: fit;
     background-position: center right;  
     background-repeat: no-repeat;
+}
+
+.content {
+    display: block;
+    max-width: 600px;
+    padding: 24px;
+    box-sizing: border-box;
+    color: #555555;
 }
