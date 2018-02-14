@@ -4,7 +4,7 @@ html {
 body {
     display: block;
     width: calc(100% - 24px);
-    height: calc(100vh - 12px);
+    height: calc(100vh - 24px);
     margin: 12px; 
     background-color: white;
     background-image: url('img/siphon_clipped.jpg');
@@ -16,7 +16,7 @@ main {
     display: block;
     width: 100%;
     height: 100%;
-    background-color: white;
+    background-color: transparent;
     background-image: url('img/isi_clipped.jpg');
     background-size: fit;
     background-position: center right;  
