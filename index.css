@@ -1,5 +1,5 @@
 html {
-    background-color: #dadada;
+    background-color: #d61a2f;
 }
 body {
     display: block;
@@ -13,6 +13,7 @@ body {
     background-repeat: no-repeat;
     border-radius: 6px;
     overflow: hidden;
+    font-family: 'Raleway', sans-serif;
 }
 main {
     display: flex;
@@ -34,4 +35,6 @@ main {
     padding: 24px;
     box-sizing: border-box;
     color: #555555;
+    background-color: white;
+    border-radius: 6px;
 }
