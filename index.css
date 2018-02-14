@@ -76,5 +76,9 @@ main {
 }
 
 .terms {
+    margin-top: 48px;
+}
+
+.terms p {
     font-size: 0.8em;
 }
