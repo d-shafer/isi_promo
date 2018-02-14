@@ -66,11 +66,15 @@ main {
     font-size: 1em;
     border: none;
     border-radius: 6px;
-    margin-bottom: 24px;
+    margin-bottom: 12px;
 }
 
 .mc-field-group label {
-    font-size: 0.8em;
+    font-size: 0.9em;
     padding: 6px;
     box-sizing: border-box;
+}
+
+.terms {
+    font-size: 0.8em;
 }
