@@ -3,6 +3,11 @@ body {
     width: 100%;
     padding: 0px; 
     margin: 0px;
+    background-color: transparent;
+    background-image: url('img/siphon_clipped.jpg');
+    background-size: fit;
+    background-position: center left;  
+    background-repeat: no-repeat;
 }
 main {
     display: block;
