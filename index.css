@@ -56,3 +56,14 @@ main {
     display: block;
     width: 100%;
 }
+
+.mc-field-group input {
+    border: none;
+    background-color: #f4f4f4;
+    padding: 12px 24px;
+    box-sizing: border-box;
+    color: #555555;
+    font-size: 1em;
+    border: none;
+    border-radius: 6px;
+}
