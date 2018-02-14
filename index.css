@@ -78,12 +78,14 @@ main {
 
 .button {
     padding: 12px 24px;
-    background-color: red;
+    background-color: #de3a3a;
     color: white;
     cursor: pointer;
     font-size: 1em;
     font-weight: bold;
     margin-top: 24px;
+    border: none;
+    border-radius: 6px;
 }
 .indicates-required {
     font-size: 0.8em;
