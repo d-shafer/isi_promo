@@ -46,3 +46,13 @@ main {
 .content h1 {
     font-size: 5vmin;
 }
+
+.mc-field-group {
+    display: block;
+}
+
+.mc-field-group input,
+.mc-field-group label {
+    display: block;
+    width: 100%;
+}
