@@ -1,13 +1,12 @@
 html {
-    background-color: red;
+    background-color: #d61a2f;
 }
 body {
     display: block;
     width: calc(100% - 24px);
     height: calc(100vh - 12px);
     margin: 12px; 
-    margin: 0px;
-    background-color: transparent;
+    background-color: white;
     background-image: url('img/siphon_clipped.jpg');
     background-size: fit;
     background-position: center left;  
@@ -17,7 +16,7 @@ main {
     display: block;
     width: 100%;
     height: 100%;
-    background-color: transparent;
+    background-color: white;
     background-image: url('img/isi_clipped.jpg');
     background-size: fit;
     background-position: center right;  
