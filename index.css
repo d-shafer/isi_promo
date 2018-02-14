@@ -1,5 +1,5 @@
 html {
-    background-color: #d61a2f;
+    background-color: #dadada;
 }
 body {
     display: block;
@@ -11,6 +11,8 @@ body {
     background-size: fit;
     background-position: center left;  
     background-repeat: no-repeat;
+    border-radius: 6px;
+    overflow: hidden;
 }
 main {
     display: flex;
