@@ -53,8 +53,6 @@ p.intro_desc {
     align-items: stretch;
     justify-content: flex-start;
     margin-top: 12px;
-    border: solid 1px lightgray;
-    border-radius: 6px;
     overflow: hidden;
 }
 
@@ -117,6 +115,7 @@ p.intro_desc {
     background-color: #fff;
     border-radius: 6px;
     z-index: 2;
+    border: solid 1px lightgray;
 }
 
 .terms {
