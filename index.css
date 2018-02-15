@@ -120,6 +120,7 @@ p.intro_desc {
     box-sizing: border-box;
     background-color: #fff;
     border-radius: 6px;
+    z-index: 2;
 }
 
 .terms {
@@ -128,6 +129,8 @@ p.intro_desc {
     max-width: 500px;
     padding: 24px;
     box-sizing: border-box;
+    z-index: 1;
+    background-color: #f4f4f4;
 }
 
 .terms p,
