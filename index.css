@@ -75,7 +75,8 @@ main {
     border: none;
     margin-bottom: 12px;
     border: solid 1px #f4f4f4;
-    border-radius: 3px
+    border-radius: 6px;
+    background-color: #f4f4f4;
 }
 
 .mc-field-group label {
@@ -93,7 +94,7 @@ main {
     font-weight: bold;
     margin-top: 24px;
     border: none;
-    border-raidus: 48px;
+    border-radius: 48px;
 }
 .indicates-required {
     font-size: 0.8em;
