@@ -176,7 +176,7 @@ p.intro_desc {
         background-attachment: fixed;
     }
     main {
-        margin-top: 400px;
+        margin-top: calc(100vw * 4 / 6);
         width: 100%;
     }
 }
