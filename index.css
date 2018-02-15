@@ -130,7 +130,8 @@ p.intro_desc {
     box-sizing: border-box;
 }
 
-.terms p {
+.terms p,
+.terms a {
     font-size: 0.8em;
 }
 
