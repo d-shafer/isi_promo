@@ -169,9 +169,14 @@ p.intro_desc {
 
 @media screen and (max-width: 600px){
     body {
-        background-image: none;
+        background-image: url('img/isi_top.jpg');
+        background-size: contain;
+        background-position: top center;  
+        background-repeat: no-repeat;
+        background-attachment: fixed;
     }
     main {
+        margin-top: 400px;
         width: 100%;
     }
 }
