@@ -161,6 +161,8 @@ p.intro_desc {
     position: absolute;
     bottom: 12px;
     left: 12px;
+    border-radius: 6px;
+    border: solid 1px lightgray;
 }
 
 .sponsors a {
