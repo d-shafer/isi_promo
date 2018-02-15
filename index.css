@@ -184,6 +184,11 @@ p.intro_desc {
         flex-direction: column;
         align-items: center;
     }
+    .terms {
+        border-left: none;
+        border-top: solid 1px lightgray;
+        background-color: transparent;
+    }
 
 }
 
