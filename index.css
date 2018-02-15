@@ -44,7 +44,7 @@ p.intro_desc {
 
 .content {
     display: block;
-    width: 96%;
+    width: 100%;
     max-width: 1000px;
     padding: 24px;
     box-sizing: border-box;
