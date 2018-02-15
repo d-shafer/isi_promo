@@ -36,7 +36,7 @@ main {
 .content {
     display: block;
     width: 96%;
-    max-width: 800px;
+    max-width: 1000px;
     padding: 24px;
     box-sizing: border-box;
     color: #555555;
@@ -104,6 +104,7 @@ main {
     width: 100%;
     max-width: 400px;
     margin-top: 48px;
+    padding: 24px;
 }
 
 .terms p {
