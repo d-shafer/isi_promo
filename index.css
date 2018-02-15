@@ -129,6 +129,7 @@ p.intro_desc {
     background-color: #f4f4f4;
     position: relative;
     padding-bottom: 100px;
+    border-left: solid 1px lightgray;
 }
 
 .terms p,
