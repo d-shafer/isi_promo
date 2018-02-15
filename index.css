@@ -20,7 +20,7 @@ main {
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    width: calc(100% - 500px);
+    width: calc(100% - 400px);
     min-height: 100vh;
     background-color: transparent;
 }
@@ -143,31 +143,20 @@ p.intro_desc {
     box-shadow: inset 0px 0px 12px -2px rgba(0,0,0,0.35);
 }
 
-@media screen and (max-width:1280px){
-    main {
-        align-items: flex-start;
-    }
-    .content {
-        background-color: transparent;
-        max-width: 680px;
-    }
-}
 
-@media screen and (max-width:768px) {
-    .content {
-        max-width: 400px;
-    }
+@media screen and (max-width:1080px) {
+
     .content_inner {
         flex-direction: column;
         align-items: center;
     }
+
 }
 
 @media screen and (max-width: 500px){
-    main {
+
+    body {
         background-image: none;
     }
-    .content {
-        max-width: 100%;
-    }
+
 }
