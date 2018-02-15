@@ -160,7 +160,7 @@ p.intro_desc {
     }
 }
 
-@media screena and (max-width:768px) {
+@media screen and (max-width:768px) {
     .content {
         max-width: 400px;
     }
