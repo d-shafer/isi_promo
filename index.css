@@ -161,6 +161,9 @@ p.intro_desc {
 }
 
 @media screena and (max-width:768px) {
+    .content {
+        max-width: 400px;
+    }
     .content_inner {
         flex-direction: column;
         align-items: center;
