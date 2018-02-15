@@ -153,6 +153,12 @@ p.intro_desc {
 
 }
 
+@media screen and (max-width: 900px){
+    main {
+        width: calc(100% - 300px);
+    }
+}
+
 @media screen and (max-width: 500px){
 
     body {
