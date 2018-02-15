@@ -32,6 +32,16 @@ main {
     background-attachment: fixed;
 }
 
+p.intro_desc {
+    padding-bottom: 24px;
+    max-width: 700px;
+}
+
+.asterisk {
+    color: #de3a3a;
+    font-size: 1em;
+}
+
 .content {
     display: block;
     width: 96%;
