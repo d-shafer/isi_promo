@@ -74,7 +74,8 @@ main {
     font-size: 1em;
     border: none;
     margin-bottom: 12px;
-    border: solid 1px lightgray;
+    border: solid 1px #f4f4f4;
+    border-radius: 3px
 }
 
 .mc-field-group label {
