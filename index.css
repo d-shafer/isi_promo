@@ -5,12 +5,6 @@ body {
     display: block;
     width: 100%;
     margin: 0px;
-    background-color: white;
-    background-image: url('img/siphon_clipped.jpg');
-    background-size: contain;
-    background-position: top left;  
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     font-family: 'Raleway', sans-serif;
 }
 h1 {
@@ -21,7 +15,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     width: 100%;
     min-height: 100vh;
     background-color: transparent;
@@ -151,9 +145,6 @@ p.intro_desc {
 }
 
 @media screen and (max-width:1280px){
-    body {
-        background-image: none;
-    }
     main {
         align-items: flex-start;
     }
