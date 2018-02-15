@@ -156,5 +156,13 @@ p.intro_desc {
     }
     .content {
         background-color: transparent;
+        max-width: 680px;
+    }
+}
+
+@media screena and (max-width:768px) {
+    .content_inner {
+        flex-direction: column;
+        align-items: center;
     }
 }
