@@ -126,7 +126,7 @@ p.intro_desc {
     padding: 24px;
     box-sizing: border-box;
     z-index: 1;
-    background-color: #f4f4f4;
+    background-color: #fff;
     position: relative;
     padding-bottom: 100px;
     border-left: solid 1px lightgray;
@@ -158,8 +158,6 @@ p.intro_desc {
     justify-content: center;
     margin-top: 48px;
     background: white;
-    border-radius: 6px;
-    border: solid 1px lightgray;
     position: absolute;
     bottom: 12px;
     left: 12px;
@@ -187,7 +185,6 @@ p.intro_desc {
     .terms {
         border-left: none;
         border-top: solid 1px lightgray;
-        background-color: transparent;
     }
 
 }
