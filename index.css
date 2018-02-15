@@ -5,6 +5,11 @@ body {
     margin: 0px;
     font-family: 'Raleway', sans-serif;
     background-color: white;
+    background-image: url('img/pretty_isi.jpg');
+    background-size: contain;
+    background-position: top left;  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 h1 {
     font-family: 'Raleway', sans-serif;
@@ -18,11 +23,6 @@ main {
     width: calc(100% - 500px);
     min-height: 100vh;
     background-color: transparent;
-    background-image: url('img/pretty_isi.jpg');
-    background-size: contain;
-    background-position: top right;  
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 
 p.intro_desc {
