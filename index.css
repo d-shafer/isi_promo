@@ -219,4 +219,7 @@ p.intro_desc {
         width: 100%;
         background-color: #fff;
     }
+    .content {
+        padding: 12px;
+    }
 }
