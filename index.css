@@ -43,11 +43,13 @@ main {
     background-color: white;
     border-radius: 6px;
 }
+
 .content_inner {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-
+    align-items: stretch;
+    justify-content: flex-start;
 }
 
 .content h1 {
@@ -97,6 +99,12 @@ main {
 .indicates-required {
     font-size: 0.8em;
     padding: 6px;
+}
+
+.form {
+    display: block;
+    width: 100%;
+    max-width: 400px;
 }
 
 .terms {
