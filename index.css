@@ -154,4 +154,7 @@ p.intro_desc {
     main {
         align-items: flex-start;
     }
+    .content {
+        background-color: transparent;
+    }
 }
