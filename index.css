@@ -187,6 +187,7 @@ p.intro_desc {
     .terms {
         border-left: none;
         border-top: solid 1px lightgray;
+        background-color: transparent;
     }
 
 }
