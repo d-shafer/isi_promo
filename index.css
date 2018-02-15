@@ -53,6 +53,9 @@ p.intro_desc {
     align-items: stretch;
     justify-content: flex-start;
     margin-top: 12px;
+    border: solid 1px lightgray;
+    border-radius: 6px;
+    overflow: hidden;
 }
 
 .content h1 {
@@ -78,7 +81,7 @@ p.intro_desc {
     font-size: 1em;
     border: none;
     margin-bottom: 12px;
-    border: solid 1px #f4f4f4;
+    border: solid 1px lightgray;
     border-radius: 6px;
     background-color: #fff;
 }
