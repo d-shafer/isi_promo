@@ -42,7 +42,7 @@ p.intro_desc {
     padding: 48px;
     box-sizing: border-box;
     color: #555555;
-    background-color: rgba(255,255,255,0.5);
+    background-color: rgba(255,255,255,0.75);
     margin: auto;
 }
 
@@ -159,7 +159,11 @@ p.intro_desc {
     }
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 768px){
+
+    main {
+        width: calc(100% - 150px);
+    }
 
     body {
         background-image: none;
