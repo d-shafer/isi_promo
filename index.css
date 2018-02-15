@@ -43,6 +43,12 @@ main {
     background-color: white;
     border-radius: 6px;
 }
+.content_inner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    
+}
 
 .content h1 {
     font-size: 5vmin;
