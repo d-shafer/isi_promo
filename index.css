@@ -143,6 +143,27 @@ p.intro_desc {
     box-shadow: inset 0px 0px 12px -2px rgba(0,0,0,0.35);
 }
 
+.sponsors {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.sponsors a {
+    display: block;
+    width: 50%;
+    padding: 12px; 
+    box-sizing: border-box;
+}
+
+.sponsors a img {
+    display: block;
+    width: 100%;
+}
+
 
 @media screen and (max-width:1080px) {
 
