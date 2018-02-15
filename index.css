@@ -150,6 +150,10 @@ p.intro_desc {
     flex-wrap: nowrap;
     align-items: center;
     justify-content: center;
+    margin-top: 48px;
+    background: white;
+    border-radius: 6px;
+    border: solid 1px lightgray;
 }
 
 .sponsors a {
